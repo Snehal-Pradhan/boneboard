@@ -1,3 +1,3 @@
 # BoneBoard
 
-Official Repo | BoneBoard
+BoneBoard is a whiteboarding tool.
