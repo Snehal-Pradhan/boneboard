@@ -1,4 +1,4 @@
-# 🦴 BoneBoard
+# BoneBoard
 
 **BoneBoard** is a 2D infinite whiteboarding tool for creative drawing and collaboration.
 
